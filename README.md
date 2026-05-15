@@ -17,11 +17,12 @@ Gameplay Mechanics
 
 Visuals & Blueprints
 ### 1. Server-Authoritative Spawning
-This logic ensures that only the server has the authority to spawn loot from a predefined list. It prevents item duplication and ensures all clients see the same spawned actor.
-<img width="1051" height="534" alt="image" src="https://github.com/user-attachments/assets/75bc4771-bc68-4f6e-9b66-f66ac6d09b02" />
-)
-
-### 2. Interaction & Casting
+Interaction & Casting
 Using Overlap Events to detect players and verify their class via Casting before triggering the pickup logic.
+<img width="1051" height="534" alt="image" src="https://github.com/user-attachments/assets/75bc4771-bc68-4f6e-9b66-f66ac6d09b02" />
+
+
+### 2. Server-Authoritative Spawning
+This logic ensures that only the server has the authority to spawn loot from a predefined list. It prevents item duplication and ensures all clients see the same spawned actor.
 <img width="1301" height="645" alt="image" src="https://github.com/user-attachments/assets/63e39b77-7ccd-44ca-920d-8612bf52dc61" />
-)
+
