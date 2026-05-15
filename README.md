@@ -23,5 +23,5 @@ This logic ensures that only the server has the authority to spawn loot from a p
 
 ### 2. Interaction & Casting
 Using Overlap Events to detect players and verify their class via Casting before triggering the pickup logic.
-(<img width="1301" height="645" alt="image" src="https://github.com/user-attachments/assets/63e39b77-7ccd-44ca-920d-8612bf52dc61" />
+<img width="1301" height="645" alt="image" src="https://github.com/user-attachments/assets/63e39b77-7ccd-44ca-920d-8612bf52dc61" />
 )
